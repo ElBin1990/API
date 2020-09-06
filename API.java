@@ -18,7 +18,7 @@ public class API {
 
 		try {
 
-			String key = "76a30e41148290140a30be0ef281f18f";
+			String key = "*****";
 
 			// creating url object using openweathermap api url endpoint
 
@@ -88,7 +88,7 @@ public class API {
 
 	public static String requestStock(String company) {
 
-		String key = "brocslvrh5r8qo238940";
+		String key = "*********";
 
 		String result = "";
 
